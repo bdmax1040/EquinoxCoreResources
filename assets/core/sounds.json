@@ -1,6 +1,41 @@
 {
-  "audio1": {
+  "bling_1": {
     "sounds": [
-      "core:sound1"]
-    }
+      "core:bling1"
+    ]
+  },
+
+
+  "bling_2": {
+    "sounds": [
+      "core:bling2"
+    ]
+  },
+
+
+  "bling_3": {
+     "sounds": [
+       "core:bling3"
+      ]
+  },
+
+
+  "boop_1": {
+    "sounds": [
+      "core:boop1"
+    ]
+  },
+
+  "boop_2": {
+    "sounds": [
+      "core:boop2"
+     ]
+ },
+
+ "final_1": {
+  "sounds": [
+    "core:final1"
+   ]
+}
+
 }
