@@ -1,0 +1,17 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+   "layer0": "item/book"
+  },
+ 
+  "overrides": [
+   { "predicate": {"custom_model_data": 600000}, "model": "item/odin_rune"},
+   { "predicate": {"custom_model_data": 600001}, "model": "item/dragaz_rune"},
+   { "predicate": {"custom_model_data": 600002}, "model": "item/lagu_rune"},
+   { "predicate": {"custom_model_data": 600003}, "model": "item/sigel_rune"},
+   { "predicate": {"custom_model_data": 600004}, "model": "item/kaun_rune"}
+ 
+  ]
+ 
+  
+ }
