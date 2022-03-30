@@ -36,6 +36,13 @@
   "sounds": [
     "core:final1"
    ]
-}
+  },
+
+  "finaltrack": {
+    "sounds": [
+      "core:finaltrack1"
+    ]
+  }
+
 
 }
