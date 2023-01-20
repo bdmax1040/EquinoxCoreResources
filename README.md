@@ -1,4 +1,4 @@
-# EquinoxCoreResources-1.18.2
+# EquinoxCoreResources
 
 ## **IMPORTANT**
 
