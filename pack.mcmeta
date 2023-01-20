@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 8,
+        "pack_format": 12,
 		"description": [{"text":"EquinoxCore Resources Pack","color":"red"},{"text":"\nBy bdmax1040","color":"green"}]
     }
 }
